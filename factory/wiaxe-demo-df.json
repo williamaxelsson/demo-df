@@ -1,0 +1,9 @@
+{
+	"name": "wiaxe-demo-df",
+	"location": "northeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ce9a932f-67d9-43fc-b252-c569df1ac8d6",
+		"tenantId": "cb541040-4a5f-4b92-a59b-4c1f93693e05"
+	}
+}
